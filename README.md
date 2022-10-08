@@ -2,7 +2,7 @@
 
 [View hosted page][ViewPage]
 
-[ViewPage]:https://github.com/hmkphoneland/pagetest
+[ViewPage]:https://hmkphoneland.github.io/pagetest/
 
 col1|col2
 -|-
