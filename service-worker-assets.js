@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-lq6+R4GjaXdp0Wy2H90k\/pkcPyN\/eawKKi5hEeoWZVg=",
+      "hash": "sha256-JBX14U\/YGIDLUiWGVXrxjG+caKzuZx2AsF1zcWWuC70=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-HXspKHsaSNYjH4vkxyMqzb0QOSvuEpbo\/DOAkXFY5+A=",
+      "hash": "sha256-iO\/fETjMaiEe721JnpR7KFsD\/cBM8\/UxJZjhRglHKKY=",
       "url": "_framework\/AllShared.dll"
     },
     {
@@ -45,7 +45,7 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-VSZKmGpvZtKsdbXnobqwO5VePtNEbQtGSCLuWGQgGMg=",
+      "hash": "sha256-Etny3VAJ7trcVqaKgAv3wulEBwWawgDarg1E\/AbYmYU=",
       "url": "_framework\/MaintechClient.dll"
     },
     {
@@ -141,11 +141,11 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-I3fMkWuFkve6sDkd8rCPtssjinr4RUM2nYyn4jbtFEE=",
+      "hash": "sha256-PJCwmyyoPOctDXDK7YJyBtRVjfthdNxdpwUcjTmc21Q=",
       "url": "_framework\/ProBlaze.dll"
     },
     {
-      "hash": "sha256-IYORdTV6IgQ3Sn5OJgGFRweLSZmcvtmnSZ+MTS01WYg=",
+      "hash": "sha256-YYlKcP8ZZ38McqGNyj7HDyMU6p9ll\/CDj\/TX4tdGM\/4=",
       "url": "_framework\/SharpBlaze.Shared.dll"
     },
     {
@@ -393,5 +393,5 @@
       "url": "_content\/ZXingBlazor\/logo.png"
     }
   ],
-  "version": "qadLIcoC"
+  "version": "BMO2da08"
 };
