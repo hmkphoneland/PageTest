@@ -1,3 +1,5 @@
+[TOC]
+
 # PageTest
 
 [View hosted page][ViewPage]
