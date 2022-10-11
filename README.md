@@ -1,19 +1,14 @@
-[TOC]
+# Minimal c# code to load a FastReport report template, populate a dataset, then export to PDF file.
 
-# PageTest
+> Warning: FastReport is a commercial product with price starting at $499. 
+> They also offer a [free open source][FROSgit] edition but the PDF export feature is actually an image export. That is, the text of the rendered PDF neither be selected nor copied.
+> For the purpose of creating a proof-of-concept product, I opted to use their [trial edition][FRT] instead of their open source edition.
 
-[View hosted page][ViewPage]
+[FROSgit]:https://github.com/FastReports/FastReport
+[FRT]:https://www.fast-report.com/en/download/fast-report-net
 
-[ViewPage]:https://hmkphoneland.github.io/pagetest/
-
-col1|col2
--|-
-col1|col2
-col1|col2
-Row3 col1|col2
-nice1|qwe
-
-10/9/2022 9:21:15 AM added blazor wasm
-
-
-## this is a test from edit file
+1. Open Visual Studio 2022 and create a console application.
+2. Optional. Set the target OS to Windows. This will minimize the file dependencies of FastReport nuget.
+3. Go to Package Manager Console and run the following:
+`Install-Package FastReport.Net.Demo`
+4. 
