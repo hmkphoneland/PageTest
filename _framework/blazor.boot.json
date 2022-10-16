@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorUpload.Client.dll": "sha256-KFYQGSCGmDgOlLarh+Esanm5N6lzHwnpzRnYmc4RyBQ=",
+      "BlazorUpload.Client.dll": "sha256-GSZVHgjVX7k7qLmH+4Yo3rmDJf2e2t1txM16yj0ll1U=",
       "BlazorUpload.Shared.dll": "sha256-LIlz\/RP\/qo8\/3F52KjW6xW4ViuCXXqArPY0kpGbIijE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-NQZcGRvyo356M3N3ZAnNXL45ERuCeMAormncL\/oE16c=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bxsed\/f9HGk8R07pPYy+tQtareorErblCp0tHBblkrE=",
